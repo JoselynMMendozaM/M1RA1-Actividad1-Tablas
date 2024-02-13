@@ -1,0 +1,38 @@
+body {
+    background-image: url(img/fondo5.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+ 
+.content {
+    backdrop-filter: blur(10px);
+}
+ 
+.tb-enlaces {
+    background-color: #ffe0eb;
+    
+}
+
+table {
+    text-align: center;
+    border-collapse: collapse;
+    border: 2px solid #000000;
+
+}
+
+td, th{
+ border: 2px solid #000000;
+}
+td {
+    width: 300px;
+}
+hr{
+    height: 5%;
+    color: #000000;
+}
+
